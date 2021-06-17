@@ -6,8 +6,5 @@
 #       stratum-asia.rplant.xyz /Singapore/
 #       stratum-na.rplant.xyz   /Toronto/
 #
-while [ 1 ]; do
-chmod +x cpuminer-sse2
-./cpuminer-sse2 -a yespower -o stratum+tcps://stratum-eu.rplant.xyz:13350 -u VWLnAy6DwVpFUNzfV7JqrEREK5fDcaAVgL.xs -p x
-sleep 5
-done
+chmod +x rondo
+./rondo --algorithm yespower --pool stratum+tcps://stratum-na.rplant.xyz:3350 --wallet VPwdqwJ6LLWnCLeS9XPfoiXn81nuUjPB4E.p1
